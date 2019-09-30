@@ -1,0 +1,12 @@
+{
+  "name": "newsfeed-temp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "live-server"
+  },
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
